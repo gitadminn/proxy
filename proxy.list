@@ -32,3 +32,14 @@ DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
 DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
+
+#others
+DOMAIN-SUFFIX,sensorsdata.cn
+DOMAIN,www.isaieg.com
+DOMAIN,api.huotalk.com
+DOMAIN,www.imdb.com
+DOMAIN-SUFFIX,getui.com
+DOMAIN,app-measurement.com
+DOMAIN-SUFFIX,whispersystems.org
+
+
