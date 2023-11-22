@@ -79,7 +79,7 @@ EOF
             exit 1
         fi
         echo "STEP 准备使用acme.sh"
-        curl https://get.acme.sh | sh
+        curl https://get.acme.sh -k | sh
         ~/.acme.sh/acme.sh  --register-account  -m test@$your_domain --server zerossl
         ~/.acme.sh/acme.sh  --issue  -d $your_domain  --nginx
         echo "STEP 使用acme.sh结束"
