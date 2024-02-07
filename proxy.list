@@ -6,11 +6,9 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
@@ -18,6 +16,11 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
+
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,linkedin.com
 
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
@@ -29,17 +32,13 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
-DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
 
 #others
 DOMAIN-SUFFIX,sensorsdata.cn
-DOMAIN,www.isaieg.com
 DOMAIN,api.huotalk.com
 DOMAIN,www.imdb.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,whispersystems.org
-
-
