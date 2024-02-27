@@ -1,4 +1,4 @@
-# China Apps
+# wechat
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
 # Ali
@@ -7,8 +7,6 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,.tmall.
-IP-CIDR,198.11.188.0/25,no-resolve
-IP-CIDR,198.11.136.0/24,no-resolve
 # others
 DOMAIN-SUFFIX,futuhk.com
 
