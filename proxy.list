@@ -1,4 +1,11 @@
+#tiktok
 DOMAIN-KEYWORD,tiktok
+
+#hyperpay
+DOMAIN-KEYWORD,hyperpay
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,baigougo.com
+DOMAIN-SUFFIX,umeng.com
 
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
@@ -19,6 +26,7 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,linkedin.com
 
+#apple
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
