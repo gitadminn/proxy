@@ -1,12 +1,6 @@
 # wechat
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
-# Ali
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,.tmall.
 # others
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,meituan.net
