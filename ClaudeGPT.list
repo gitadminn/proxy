@@ -1,0 +1,9 @@
+# chatgpt
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+
+# claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,amplitude.com
