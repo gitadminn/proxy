@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN,ogs.google.com
+DOMAIN,apis.google.com
+DOMAIN,play.google.com
