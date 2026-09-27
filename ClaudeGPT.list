@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,hcaptcha.com
 
 # claude
 DOMAIN-SUFFIX,claude.ai
