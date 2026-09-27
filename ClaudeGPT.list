@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,us.sentry.io
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
